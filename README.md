@@ -17,8 +17,6 @@
 另外大家也可以关注我的**公众号：程序喵大人**，以后所有文章都会首发在公众号上，下面是公众号二维码，谢谢大家支持。  
 <div align=center><img src="img/cxmdr.jpg" width="40%" height="40%"></div>
 
-我还特意组建了一个优质的C++学习社群，里面有更多优质的C++学习资料，感兴趣可以点击此链接了解：[https://t.zsxq.com/zJynu3z](https://t.zsxq.com/zJynu3z)  
-
 我也特意为大家整理了一些文档和脑图，详见doc目录。  
 ## 干货
 
